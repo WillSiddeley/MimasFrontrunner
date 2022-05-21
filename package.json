@@ -1,0 +1,24 @@
+{
+  "name": "mimasfrontrunner",
+  "version": "1.0.0",
+  "description": "A bot to frontrun the guy currently draining the Mimas community faucet.",
+  "main": "executeTransaction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://WillSiddeley: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@github.com/WillSiddeley/MimasFrontrunner.git"
+  },
+  "author": "DeathyVoid, Gerkzed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WillSiddeley/MimasFrontrunner/issues"
+  },
+  "homepage": "https://github.com/WillSiddeley/MimasFrontrunner#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.7",
+    "web3": "^1.7.3"
+  }
+}
